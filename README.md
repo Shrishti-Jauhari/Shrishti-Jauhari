@@ -8,7 +8,8 @@ I specialize in bridging the gap between physical laboratory synthesis and cloud
 ## 🌐 Scientific Initiatives
 ### 🧪 Quantum Synthetics 
 *Founder & Lead Coordinator*  
-LinkedIn Profile:  https://www.linkedin.com/company/quantum-synthetics
+LinkedIn Profile:  
+https://www.linkedin.com/company/quantum-synthetics    
 
 **Quantum Synthetics** is an independent academic initiative dedicated to exploring open-source developments, cloud-based quantum chemical simulations, data pipelines, and emerging molecular trends across modern nanotechnology and material science. 
 
