@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Shrishti Jauhari👋
 M.Sc. Nanoscience Scholar | Central University of Gujarat
 
 I specialize in bridging the gap between physical laboratory synthesis and cloud-based Computational Chemistry. My primary research interests focus on Nanomaterial Optimization, Surface Chemistry Modeling, and Data-driven Material Analytics.
