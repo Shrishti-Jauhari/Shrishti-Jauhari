@@ -1,14 +1,14 @@
 # Hello, I'm [Your Name] 👋
 M.Sc. Nanoscience Scholar | Central University of Gujarat
 
-I specialize in bridging the gap between physical laboratory synthesis and cloud-based computational chemistry. My primary research interests focus on nanomaterial optimization, surface chemistry modeling, and data-driven material analytics.
+I specialize in bridging the gap between physical laboratory synthesis and cloud-based Computational Chemistry. My primary research interests focus on Nanomaterial Optimization, Surface Chemistry Modeling, and Data-driven Material Analytics.
 
 ---
 
 ## 🌐 Scientific Initiatives
 ### 🧪 Quantum Synthetics 
 *Founder & Lead Coordinator*  
-[Visit the Official LinkedIn Space](https://www.linkedin.com/company/quantum](https://www.linkedin.com/company/quantum-synthetics)
+(https://www.linkedin.com/company/quantum](https://www.linkedin.com/company/quantum-synthetics)
 
 **Quantum Synthetics** is an independent academic initiative dedicated to exploring open-source developments, cloud-based quantum chemical simulations, data pipelines, and emerging molecular trends across modern nanotechnology and material science. 
 
