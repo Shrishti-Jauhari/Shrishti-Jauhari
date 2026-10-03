@@ -3,7 +3,7 @@
 **M.Sc. Nanoscience Researcher | Central University of Gujarat**  
 *Specializing in Experimental Nanoscience & the Integration of Computational material science Workflows*
 
-I am an M.Sc. Nanoscience scholar focused on a critical challenge: making materials discovery for semiconductors and energy storage devices cleaner, faster, and more deliberate. My research interest lies at the intersection of hands-on laboratory synthesis and predictive in-silico screening. I use computational modeling as a frontline tool to evaluate material stability and electronic interfaces before physical fabrication, reducing experimental waste.
+I am an M.Sc. Nanoscience scholar focused on a critical challenge: making materials discovery for semiconductors and energy storage devices cleaner, faster, and more deliberate. My research interest lies at the intersection of hands-on laboratory synthesis and predictive in-silico screening. I am learning to use computational modeling as a frontline tool to evaluate material stability and electronic interfaces before physical fabrication, reducing experimental waste.
 
 ---
 
