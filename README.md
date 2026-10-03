@@ -1,21 +1,31 @@
-# Hello, I'm Shrishti Jauhari👋
-M.Sc. Nanoscience Scholar | Central University of Gujarat
+# Shrishti Jauhari 🧪
 
-I specialize in bridging the gap between physical laboratory synthesis and cloud-based Computational Chemistry. My primary research interests focus on Nanomaterial Optimization, Surface Chemistry Modeling, and Data-driven Material Analytics.
+**M.Sc. Nanoscience Researcher | Central University of Gujarat**  
+*Specializing in Experimental Nanoscience & the Integration of Computational Chemistry Workflows*
 
----
-
-## 🌐 Scientific Initiatives
-### 🧪 Quantum Synthetics 
-*Founder & Lead Coordinator*  
-LinkedIn Profile:  
-https://www.linkedin.com/company/quantum-synthetics    
-
-**Quantum Synthetics** is an independent academic initiative dedicated to exploring open-source developments, cloud-based quantum chemical simulations, data pipelines, and emerging molecular trends across modern nanotechnology and material science. 
+I am an M.Sc. Nanoscience scholar focused on a critical challenge: making materials discovery for semiconductors and energy storage devices cleaner, faster, and more deliberate. My research interest lies at the intersection of hands-on laboratory synthesis and predictive in-silico screening. I use computational modeling as a frontline tool to evaluate material stability and electronic interfaces before physical fabrication, reducing experimental waste.
 
 ---
 
-## 💻 Tech Stack & Tooling
-- **Computational Tools:** Python (RDKit), Google Colab Cloud GPUs, Extended Tight-Binding (xTB)
-- **Data Analytics:** Pandas, NumPy, Statsmodels (Design of Experiments / RSM)
-- **Visualization:** Matplotlib, Seaborn, OriginLab
+## 🚀 Active Computational Initiatives
+
+### 🌌 Quantum Synthetics (Founder & Lead Writer)
+* An independent digital platform and archive dedicated to decoding advanced, peer-reviewed literature in quantum physics and materials science.
+* **Focus:** Translating high-level papers on Density Functional Theory (DFT), molecular dynamics, and electronic structures into clear, accessible technical breakdowns for a global audience.
+* [🔗 Follow the Initiative on LinkedIn](https://linkedin.com/company/quantum-synthetics)
+
+---
+
+## 💻 Technical Toolkit & Methodologies
+
+* **Computational Screening:** Tight-Binding Workflows (xTB), Cloud-based Quantum Simulations (Google Colab GPU environments).
+* **Cheminformatics & Data Science:** Python, RDKit (molecular parsing), Pandas, NumPy, Statsmodels.
+* **Experimental Benchmarking:** Response Surface Methodology (RSM), Design of Experiments (DoE).
+* **Laboratory Characterization (Theoretical Foundations):** SEM, TEM, XRD analysis.
+
+---
+
+## 🔬 Featured Research Repositories (Coming Soon / In Progress)
+
+* 📊 **[High-Throughput In-Silico Screening of Optoelectronic Semiconductors]** — Python data-mining script evaluating chalcogenide perovskite systems via the Materials Project API.
+* 🔋 **[Topological Analysis and Free-Volume Profiling of Solid Electrolytes]** — Pymatgen-based structural parsing of crystal pathways for alkali-ion conduction systems.
